@@ -1,0 +1,4 @@
+/Users/jordanklaers/Documents/ArduinoWIFI/playground/SecondAttemptTutorial/arduino.cpp:1:10: fatal error: 'SoftwareSerial.h' file not found
+#include <SoftwareSerial.h>
+         ^
+1 error generated.
